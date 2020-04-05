@@ -5,7 +5,7 @@ Hylios is a little tool designed to build an assault dictionary based on your kn
 
 The project is made with **angular**, and it is just a web app.
 
-The project is built to optimize dictionnary, with the simple idea that a large majority of password have the **same scheme** : personnal information + personnal number, for example **felix80** *(pet name + contry number)*
+The project is built to optimize dictionnary, with the simple idea that a large majority of password have the **same scheme** : personnal information + personnal number, for example **felix80** *(pet name + country number)*
 
 
 
