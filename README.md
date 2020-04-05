@@ -18,9 +18,9 @@ Hylios is divided in five parts.
 
 ### First part : Principal informations
 
-Here you enter basically textual informations about the target, like pet name, Nickname, Children name, Wife name, or if the target is an instution or an enterprise, CEO name, the name of the city who target is located.
+Here you enter basically textual informations about the target, like pet name, Nickname, Children name, Wife name, or if the target is an instution or an enterprise, CEO name, the name of the city where target is located.
 
-**For write data, click at the right of the $ sign, tap your word and then press enter**
+**To write data, click on the right of the $ sign, tap your word and then press enter**
 
 More knowledge you can get of the target, more you have chance to get the good password.
 
@@ -28,7 +28,7 @@ More knowledge you can get of the target, more you have chance to get the good p
 
 In this part, you can enter informations like contry number, birthday date, wedding date.
 
-**For write data, click at the right of the $ sign, tap your word and then press enter**
+**To write data, click on the right of the $ sign, tap your word and then press enter**
 
 ### Third part : Settings
 
