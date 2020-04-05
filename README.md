@@ -18,7 +18,7 @@ Hylios is divided in five parts.
 
 ### First part : Principal informations
 
-Here you enter basicly textual informations about the target, like pet name, Nickname, Children name, Wife name, or if the target is an instution or an enterprise, CEO name, the name of the city who target is located.
+Here you enter basically textual informations about the target, like pet name, Nickname, Children name, Wife name, or if the target is an instution or an enterprise, CEO name, the name of the city who target is located.
 
 **For write data, click at the right of the $ sign, tap your word and then press enter**
 
